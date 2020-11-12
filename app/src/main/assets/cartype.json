@@ -1,0 +1,22 @@
+"cartype": [
+    {
+        "name": "sedan"
+        "image": ""
+    },
+    {
+        "name": "coupe"
+        "image": ""
+    },
+    {
+        "name": "convertible"
+        "image": ""
+    }
+    {
+        "name": "suv"
+        "image": ""
+    },
+    {
+        "name": "minivan"
+        "image": ""
+    }
+]
